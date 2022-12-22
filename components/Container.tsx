@@ -37,9 +37,9 @@ export default function Container(props) {
   const { children, ...customMeta } = props;
   const router = useRouter();
   const meta = {
-    title: 'Lee Robinson – Developer, writer, creator.',
-    description: `Front-end developer, JavaScript enthusiast, and course creator.`,
-    image: 'https://leerob.io/static/images/lee-banner.png',
+    title: 'book shelf - manosriram',
+    description: `loves backend engineering and books`,
+    image: 'https://books.manosriram.com/static/images/mano-banner.png',
     type: 'website',
     ...customMeta
   };
@@ -73,11 +73,7 @@ export default function Container(props) {
           </a>
           <div className="ml-[-0.60rem]">
             <MobileMenu />
-            <NavItem href="/" text="Home" />
-            <NavItem href="/guestbook" text="Guestbook" />
-            <NavItem href="/dashboard" text="Dashboard" />
-            <NavItem href="/blog" text="Blog" />
-            <NavItem href="/snippets" text="Snippets" />
+            <NavItem href="/" text="books.manosriram.com" />
           </div>
           <button
             aria-label="Toggle Dark Mode"
@@ -120,7 +116,6 @@ export default function Container(props) {
         className="flex flex-col justify-center px-8 bg-gray-50 dark:bg-gray-900"
       >
         {children}
-        <Footer />
       </main>
     </div>
   );

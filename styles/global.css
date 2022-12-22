@@ -214,3 +214,8 @@ table {
 .prose .callout > p {
   margin: 0 !important;
 }
+
+#bio:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
