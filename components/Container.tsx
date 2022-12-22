@@ -5,7 +5,6 @@ import { useTheme } from 'next-themes';
 import NextLink from 'next/link';
 import cn from 'classnames';
 
-import Footer from 'components/Footer';
 import MobileMenu from 'components/MobileMenu';
 
 function NavItem({ href, text }) {
