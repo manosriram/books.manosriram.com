@@ -35,6 +35,7 @@ export default function Home() {
             {currently_reading.map((book, index) => {
               return (
                 <VideoCard
+                  key={index + 1}
                   index={index + 1}
                   href={book.url}
                   title={book.title}
@@ -59,6 +60,7 @@ export default function Home() {
             {finished_reading.map((book, index) => {
               return (
                 <VideoCard
+                  key={index + 1}
                   index={index + 1}
                   href={book.url}
                   title={book.title}
