@@ -4,9 +4,9 @@ import { indexQuery } from 'lib/queries';
 
 export async function getServerSideProps({ res }) {
   const feed = new RSS({
-    title: 'Lee Robinson',
-    site_url: 'https://leerob.io',
-    feed_url: 'https://leerob.io/feed.xml'
+    title: 'Mano Sriram',
+    site_url: 'https://books.manosriram.com',
+    feed_url: 'https://books.manosriram.com/sitemap.xml'
   });
 
   const allPosts = await sanityClient.fetch(indexQuery);
