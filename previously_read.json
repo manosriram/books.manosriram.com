@@ -1,34 +1,42 @@
 [
   {
     "title": "Klara and the Sun",
-    "url": "https://www.goodreads.com/book/show/54120408-klara-and-the-sun"
+    "url": "https://www.goodreads.com/book/show/54120408-klara-and-the-sun",
+    "author": "Kazuo Ishiguro"
   },
   {
     "title": "Doglapan",
-    "url": "https://www.goodreads.com/book/show/65146478-doglapan?ac=1&from_search=true&qid=g6fz4jEnXW"
+    "url": "https://www.goodreads.com/book/show/65146478-doglapan?ac=1&from_search=true&qid=g6fz4jEnXW",
+    "author": "Ashneer Grover"
   },
   {
     "title": "Outgrowing God",
-    "url": "https://www.goodreads.com/book/show/43532557-outgrowing-god?ac=1&from_search=true&qid=9SqRt7vNYz"
+    "url": "https://www.goodreads.com/book/show/43532557-outgrowing-god?ac=1&from_search=true&qid=9SqRt7vNYz",
+    "author": "Richard Dawkins"
   },
   {
     "title": "Dark Matter",
-    "url": "https://www.goodreads.com/book/show/27833670-dark-matter?ac=1&from_search=true&qid=OUNWom5eaK"
+    "url": "https://www.goodreads.com/book/show/27833670-dark-matter?ac=1&from_search=true&qid=OUNWom5eaK",
+    "author": "Blare Crouch"
   },
   {
     "title": "Educated",
-    "url": "https://www.goodreads.com/book/show/35133922-educated?ac=1&from_search=true&qid=DwjV2NpocQ"
+    "url": "https://www.goodreads.com/book/show/35133922-educated?ac=1&from_search=true&qid=DwjV2NpocQ",
+    "author": "Tara Westover"
   },
   {
     "title": "Almanack by Naval Ravikanth",
-    "url": "https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?ac=1&from_search=true&qid=nIYHbToqUZ"
+    "url": "https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?ac=1&from_search=true&qid=nIYHbToqUZ",
+    "author": "Naval Ravikanth"
   },
   {
-    "title": "Will Smith",
-    "url": "https://www.goodreads.com/book/show/58375739-will?ac=1&from_search=true&qid=9vcGyhxJRJ"
+    "title": "Will",
+    "url": "https://www.goodreads.com/book/show/58375739-will?ac=1&from_search=true&qid=9vcGyhxJRJ",
+    "author": "Will Smith"
   },
   {
     "title": "Greenlights",
-    "url": "https://www.goodreads.com/book/show/52838315-greenlights?ac=1&from_search=true&qid=FrpnEPqbph"
+    "url": "https://www.goodreads.com/book/show/52838315-greenlights?ac=1&from_search=true&qid=FrpnEPqbph",
+    "author": "Matthew McConaughey"
   }
 ]

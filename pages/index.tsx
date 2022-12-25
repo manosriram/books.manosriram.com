@@ -39,6 +39,7 @@ export default function Home() {
                   index={index + 1}
                   href={book.url}
                   title={book.title}
+                  author={book.author}
                 />
               );
             })}
@@ -64,6 +65,7 @@ export default function Home() {
                   index={index + 1}
                   href={book.url}
                   title={book.title}
+                  author={book.author}
                 />
               );
             })}
